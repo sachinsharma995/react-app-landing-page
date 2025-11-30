@@ -1,16 +1,60 @@
-# React + Vite
+# 🚀 React App Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern landing page built using **React**, **React Router**, and **Vite**.  
+This project provides an attractive interface with navigation links and a download button for showcasing any project.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- ⚛️ React + Vite fast development setup
+- 🚀 Optimized performance with HMR
+- 🔗 Navigation using React Router
+- 🎨 Clean and responsive UI design
+- 📥 Download button included
+- 🔧 Easy to customize and extend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-----------|---------|
+| React | UI development |
+| Vite | Development + Build tool |
+| React Router | Multi-page navigation |
+| CSS / Tailwind CSS | Styling |
+
+---
+
+## 📂 Folder Structure
+
+src/
+├─ components/
+│ ├─ Header.jsx
+│ ├─ Footer.jsx
+│ ├─ ...
+├─ pages/
+│ ├─ Home.jsx
+│ ├─ Contact.jsx
+│ ├─ About.jsx
+│ ├─ Github.jsx
+├─ App.jsx
+├─ main.jsx
+
+
+---
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```sh
+git clone https://github.com/sachinsharma995/react-app-landing-page.git
+
+Go inside folder:- cd react-app-landing-page
+
+Start the server:- npm run dev
+
+
+
